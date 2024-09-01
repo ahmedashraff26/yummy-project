@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "build": "tailwindcss -i ./src/css/input.css -o ./dist/output.css",
+    "start": "your-start-command"
+  },
   "devDependencies": {
     "tailwindcss": "^3.4.4"
   }
