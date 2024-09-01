@@ -1,4 +1,6 @@
 {
+  "name": "yummy-project",
+  "version": "1.0.0",
   "scripts": {
     "build": "tailwindcss -i ./src/css/input.css -o ./dist/output.css",
     "start": "your-start-command"
